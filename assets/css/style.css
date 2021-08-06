@@ -706,7 +706,7 @@ text-transform: uppercase;
   text-align: center;
   padding-left: 20px;
   font-size: 18px;
-  
+  color: #1e2b37;
 }
 
 @-webkit-keyframes animate-loading {
