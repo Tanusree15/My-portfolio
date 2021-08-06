@@ -4,11 +4,11 @@ I am Tanusree Mallik.
 
 
 ## Instructions
-After cloning into repo, install dependencies:
+Dependencies :
 JQUERY, Bootstrap
 
 
-Go to the index.html file and get started with the project on your local machine 🚀
+
 
 
 
